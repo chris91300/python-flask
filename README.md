@@ -8,3 +8,10 @@ j'ai voulu tester rapidement. j'ai donc fait trois pages web.
 
 Rien d'extraordinaire mais c'est juste pour tester. Il n'y a pas vraiment de css.
 j'ai mis un fichier style.css pour tester l'import d'un fichier static
+
+pour lancer le projet:
+```bash
+python -m venv .venv
+pip install -r requirements.txt
+flask --app app run --port 5050
+```
