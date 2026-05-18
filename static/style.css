@@ -1,1 +1,9 @@
-h1{color: blue}
+h1{
+    color: blue;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 2rem;
+}
